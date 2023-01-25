@@ -3,6 +3,3 @@ description: 매일 공부한 내용을 정리합니다
 theme: just-the-docs
 
 url: https://hanlimkim.github.io/hanlimkim
-
-plugins:
-  - just-the-docs
