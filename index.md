@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-매일 공부한 내용을 정리합니다
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+roadmap.sh의 Backend Developer 로드맵에 따라 공부한 내용을 정리한 블로그입니다
