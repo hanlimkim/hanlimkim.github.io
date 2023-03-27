@@ -2,7 +2,7 @@
 layout: default
 title: How does the internet work?
 parent: Internet
-nav_order: 2
+nav_order: 1
 ---
 
 ## How does the internet work?
