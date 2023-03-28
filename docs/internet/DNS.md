@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How does the internet work?
+title: What is DNS? and How DNS works?
 parent: Internet
 nav_order: 4
 ---
