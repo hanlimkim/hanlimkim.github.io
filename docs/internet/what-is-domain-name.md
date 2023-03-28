@@ -9,9 +9,9 @@ nav_order: 3
 
 ## References
 
-[What is a Domain Name? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
+[What is a Domain Name? - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
 
-[What is a domain name? | Domain name vs. URL | Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+[What is a domain name? - Domain name vs. URL - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
 
 [What is a Domain Name? - A Beginners Guide to How Domain Names Work!](https://www.youtube.com/watch?v=Y4cRx19nhJk)
 
